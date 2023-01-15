@@ -128,9 +128,7 @@ public class Bibliotheque {
         }
         return auteurs;
     }
-    //    public Vector<String> LivreD1Auteur(){
-//
-//    }
+
     @Override
     public String toString() {
         String r = "";
